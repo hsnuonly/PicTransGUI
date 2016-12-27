@@ -1,9 +1,0 @@
-D:\Document\Visual Basic\Projects\PicTran\PicTran\bin\Debug\PicTran.exe
-D:\Document\Visual Basic\Projects\PicTran\PicTran\bin\Debug\PicTran.pdb
-D:\Document\Visual Basic\Projects\PicTran\PicTran\obj\Debug\PicTran.csprojResolveAssemblyReference.cache
-D:\Document\Visual Basic\Projects\PicTran\PicTran\obj\Debug\PicTran.Form1.resources
-D:\Document\Visual Basic\Projects\PicTran\PicTran\obj\Debug\PicTran.Properties.Resources.resources
-D:\Document\Visual Basic\Projects\PicTran\PicTran\obj\Debug\PicTran.csproj.GenerateResource.Cache
-D:\Document\Visual Basic\Projects\PicTran\PicTran\obj\Debug\PicTran.exe
-D:\Document\Visual Basic\Projects\PicTran\PicTran\obj\Debug\PicTran.pdb
-D:\Document\Visual Basic\Projects\PicTran\PicTran\bin\Debug\PicTran.exe.config
